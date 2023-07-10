@@ -1,0 +1,6 @@
+[submodule "Project-Management-System-Frontend"]
+	path = Project-Management-System-Frontend
+	url = https://github.com/109598023/Project-Management-System-Frontend.git
+[submodule "Project-Management-System-Backend"]
+	path = Project-Management-System-Backend
+	url = https://github.com/109598023/Project-Management-System-Backend.git
